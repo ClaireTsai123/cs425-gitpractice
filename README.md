@@ -1,1 +1,1 @@
-practice git cammand git fetch
+practice git command git fetch git fetch
